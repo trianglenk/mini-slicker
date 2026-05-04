@@ -53,9 +53,11 @@ python3 main.py
 * `save.json` — Save file (created automatically after the first launch).
 
 ## 🎨 Screenshots
-> Icons and interface previews of the game
-> ![Launcher Screenshot](icons/launcher_scn.png)
-> ![Game Screenshot](icons/main.png)
+<p align="center">
+  <img src="icons/launcher_scn.png" width="400" alt="Launcher">
+  <img src="icons/main.png" width="310" alt="Game Interface">
+</p>
+
 
 
 
