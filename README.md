@@ -58,8 +58,8 @@ python3 Launcher.py
 
 ## 🎨 Screenshots
 <p align="center">
-  <img src="icons/launcher_scn.png" width="500" alt="Launcher Pro">
-  <img src="icons/main.png" width="230" alt="Game Interface">
+  <img src="icons/launcher2.png" width="500" alt="Launcher Pro">
+  <img src="icons/main2.png" width="230" alt="Game Interface">
 </p>
 
 ## 🏗 Future Updates
