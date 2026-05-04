@@ -58,7 +58,7 @@ python3 Launcher.py
 
 ## 🎨 Screenshots
 <p align="center">
-  <img src="icons/launcher2.png" width="500" alt="Launcher Pro">
+  <img src="icons/Launcher2.png" width="500" alt="Launcher Pro">
   <img src="icons/main2.png" width="230" alt="Game Interface">
 </p>
 
