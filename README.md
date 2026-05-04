@@ -54,7 +54,7 @@ python3 main.py
 
 ## 🎨 Screenshots
 <p align="center">
-  <img src="icons/launcher_scn.png" width="480" alt="Launcher">
+  <img src="icons/launcher_scn.png" width="490" alt="Launcher">
   <img src="icons/main.png" width="230" alt="Game Interface">
 </p>
 
