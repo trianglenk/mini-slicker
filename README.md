@@ -54,7 +54,9 @@ python3 main.py
 
 ## 🎨 Screenshots
 > *Upload a screenshot of your game to the project folder and replace the path below*
-> ![Screenshot](https://placeholder.com)
+> ![Screenshot](Launcher.png)
+> ![Screenshot](main.png)
+
 
 ## 🏗 Future Updates
 - [ ] **Auto-clickers**: Item shop for passive coin income.
