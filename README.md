@@ -53,9 +53,10 @@ python3 main.py
 * `save.json` — Save file (created automatically after the first launch).
 
 ## 🎨 Screenshots
-> *Upload a screenshot of your game to the project folder and replace the path below*
-> ![Screenshot](icons/launcher_screen.png)
-> ![Screenshot](main.png)
+> Icons and interface previews of the game
+> ![Launcher Screenshot](icons/launcher_scn.png)
+> ![Game Screenshot](icons/main.png)
+
 
 
 ## 🏗 Future Updates
