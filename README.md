@@ -54,7 +54,7 @@ python3 main.py
 
 ## 🎨 Screenshots
 > *Upload a screenshot of your game to the project folder and replace the path below*
-> ![Screenshot](Launcher.png)
+> ![Screenshot](launcher_screen.png)
 > ![Screenshot](main.png)
 
 
