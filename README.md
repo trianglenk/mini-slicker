@@ -11,6 +11,16 @@ A stylish and lightweight Python clicker. Click the button, earn coins, and purc
 
 ---
 
+## 📚 Projects in this repository
+
+- **`mini-slicker`** – main clicker game and Launcher Pro.
+- **(new project 1)** – short description.
+- **(new project 2)** – short description.
+
+> *Add your own projects here by editing the list.*
+
+---
+
 ## 🛠 Installation and Run
 
 ### 🟦 For Windows Users (Step-by-Step)
