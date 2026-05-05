@@ -21,6 +21,38 @@ A stylish and lightweight Python clicker. Click the button, earn coins, and purc
 
 ---
 
+## 🧩 Dependencies and setup
+
+The project uses `customtkinter` for its UI, so you need to install it once.
+
+### 🐍 Python dependencies
+
+1. Create a virtual environment in the project folder:
+
+   ```bash
+   python -m venv venv
+   ```
+
+2. Activate it:
+
+   ```bash
+   # Linux/macOS
+   source venv/bin/activate
+
+   # Windows (CMD)
+   venv\Scripts\activate
+   ```
+
+3. Install required packages:
+
+   ```bash
+   python -m pip install customtkinter
+   ```
+
+   (Alternatively, after creating `requirements.txt`, run: `python -m pip install -r requirements.txt`.)
+
+---
+
 ## 🛠 Installation and Run
 
 ### 🟦 For Windows Users (Step-by-Step)
@@ -31,8 +63,14 @@ A stylish and lightweight Python clicker. Click the button, earn coins, and purc
    * Select `Install Now`.
 2. **Running the Game**:
    * Download this repository (**Code** -> **Download ZIP**) and unzip it.
-   * Simply double-click the `Launcher.py` file to start.
-   * *Tip: If the console window is getting in the way, rename files to `.pyw` extension.*
+   * Open the project folder in a terminal and run:
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     python -m pip install customtkinter
+     python Launcher.py
+     ```
+   * *Tip: If the console window is getting in the way, rename `Launcher.py` → `Launcher.pyw`.*
 
 ### 🐧 For Linux users (various distributions)
 
@@ -53,8 +91,26 @@ On Linux, the `Tkinter` library is required. Install it with one command:
   sudo dnf install python3-tkinter -y
   ```
 
-**Launch**: Navigate to the folder and enter:
+Then install Python dependencies and run:
+
 ```bash
+cd /path/to/mini-slicker
+
+# Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies (customtkinter)
+python3 -m pip install customtkinter
+
+# Launch the game
+python3 Launcher.py
+```
+
+💡 To avoid typing this every time, you can reuse the same virtual environment:
+
+```bash
+source venv/bin/activate
 python3 Launcher.py
 ```
 
